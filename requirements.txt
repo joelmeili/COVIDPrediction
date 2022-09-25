@@ -1,0 +1,5 @@
+torch
+matplotlib
+segmentation_models_pytorch
+gdown
+monai
